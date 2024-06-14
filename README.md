@@ -36,4 +36,4 @@
 [ThemovieDB](https://www.themoviedb.org/)<br>
 [Swiper](https://swiperjs.com/)<br>
 [JWT](https://github.com/auth0/node-jsonwebtoken)<br>
-e 2024")
+
